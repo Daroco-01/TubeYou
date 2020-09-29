@@ -29,10 +29,22 @@ div#video
 div#lista
 {    
      float:right;
-     margin-left: 30px;
+     margin-left:30px;
      width:300px ;
      height:800px;
      background-color: black;
 
 }
+div#resalto
+{    
+     
+    
+    
+     width:1200px ;
+     height:50px;
+     margin-top: 150px;
+     background-color:#b71c1c;
+
+}
+ 
  
